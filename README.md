@@ -1,6 +1,6 @@
 Hi, I'm David.
 
-I am a computer scientist from Germany, currently finishing my PhD at Ulm University.
+I am a computer scientist from Germany, I finished my PhD in Ulm, Germany in 2021.
 You can find my personal website at [ketzu.net](https://ketzu.net).
 
 # Repositories I Worked On
@@ -44,4 +44,5 @@ Sorted by main language used.
 
  * [Shitty Cactus](https://github.com/ketzu/shittycactus), C#, Unity
  * My [Services](https://github.com/ketzu/services) repository for Infrastructure-as-code, Docker, Docker-Compose
+ * My [Infrastructure](https://github.com/ketzu/infrastructure) repository for Infrastructure-as-code using Portainer and Traefik as the base for the services repo, Docker, Docker-Compose
  * [Fizzbuzz-as-a-Service](https://github.com/ketzu/fizzbuzz), PHP, Docker, Apache
