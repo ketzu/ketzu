@@ -45,5 +45,4 @@ Sorted by main language used.
 
  * [Shitty Cactus](https://github.com/ketzu/shittycactus), C#, Unity
  * My [Services](https://github.com/ketzu/services) repository for Infrastructure-as-code, Docker, Docker-Compose
- * My [Infrastructure](https://github.com/ketzu/infrastructure) repository for Infrastructure-as-code using Portainer and Traefik as the base for the services repo, Docker, Docker-Compose
  * [Fizzbuzz-as-a-Service](https://github.com/ketzu/fizzbuzz), PHP, Docker, Apache
