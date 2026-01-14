@@ -19,7 +19,7 @@ Sorted by main language used.
  
  * The [PriCloud](https://github.com/vs-uulm/PriCloud) prototype repository, Python
  * Scripts to [process wikitionary](https://github.com/ketzu/wiktionary-tools) data.
-* Korean Learners Dictionary [Sqlite DB From Json](https://github.com/ketzu/krdict-to-sqlite)
+ * Korean Learners Dictionary [Sqlite DB From Json](https://github.com/ketzu/krdict-to-sqlite)
 
 ## C++
 
@@ -27,6 +27,7 @@ Sorted by main language used.
  * The [BTCMon Implementation (BTCMon II)](https://github.com/vs-uulm/btcmon), C++
  * The [Network Simulator netsim2](https://github.com/vs-uulm/netsim2), C++
  * [Helpers for shitty-idle](https://github.com/ketzu/cityidle-tools), C++
+ * Playground for [SipHash and Hashtable](https://github.com/ketzu/kvd) implementation, C++
 
 ## JavaScript
 
@@ -45,10 +46,12 @@ Sorted by main language used.
  * [Shitty Cactus](https://github.com/ketzu/shittycactus), C#, Unity
  * My [Services](https://github.com/ketzu/services) repository for Infrastructure-as-code, Docker, Docker-Compose
  * [Fizzbuzz-as-a-Service](https://github.com/ketzu/fizzbuzz), PHP, Docker, Apache
+ * Exploration for a [dataset-operator](https://github.com/ketzu/dataset-pv-operator), Rust, Kubernetes
+ * Playground for type-state limited [financial transactions engine](https://github.com/ketzu/transactions), Rust
 
 ### Advent Of Code
 
 Playing around to get some hands on experience with a language.
 
- * [2024/go](https://github.com/ketzu/advent-of-code-2024) Day 1 to 6
- * [2022/ts](https://github.com/ketzu/advent-of-code-2022) Day 1 to 3
+ * [2024/go](https://github.com/ketzu/advent-of-code-2024) Day 1 to 6, go-lang
+ * [2022/ts](https://github.com/ketzu/advent-of-code-2022) Day 1 to 3, typescript
