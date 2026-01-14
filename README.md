@@ -10,11 +10,16 @@ Sorted by main language used.
 
 ## Python
 
-### Other
+### Data Science
 
  * The [Eta-Adaptive Data Evaluation](https://github.com/vs-uulm/eta-adaptive), Python, Data Science
  * The [CoinView Evaluation (BTCMon I)](https://github.com/vs-uulm/CoinView), Python, Data Science
+
+### Other
+ 
  * The [PriCloud](https://github.com/vs-uulm/PriCloud) prototype repository, Python
+ * Scripts to [process wikitionary](https://github.com/ketzu/wiktionary-tools) data.
+* Korean Learners Dictionary [Sqlite DB From Json](https://github.com/ketzu/krdict-to-sqlite)
 
 ## C++
 
@@ -33,9 +38,17 @@ Sorted by main language used.
 ### TypeScript
 
  * The initial [SORRIR Web Demo](https://github.com/sorrir/web-demo), TypeScript, React
+ * [Chesslist](https://github.com/ketzu/chesslist) ([Demo](https://ketzu.github.io/chesslist/)) Prototype for checking for checks and captures
 
 ## Misc
 
  * [Shitty Cactus](https://github.com/ketzu/shittycactus), C#, Unity
  * My [Services](https://github.com/ketzu/services) repository for Infrastructure-as-code, Docker, Docker-Compose
  * [Fizzbuzz-as-a-Service](https://github.com/ketzu/fizzbuzz), PHP, Docker, Apache
+
+### Advent Of Code
+
+Playing around to get some hands on experience with a language.
+
+ * [2024/go](https://github.com/ketzu/advent-of-code-2024) Day 1 to 6
+ * [2022/ts](https://github.com/ketzu/advent-of-code-2022) Day 1 to 3
