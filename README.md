@@ -12,16 +12,9 @@ Sorted by main language used.
 
 ### Other
 
- * A sentence noise generator for korean: [Konoise](https://github.com/ketzu/konoise), Python, NLP
- * A simple [3D-Objects viewer](https://github.com/ketzu/3d-objects) as a 2-day challenge, Python, Qt, PySide2 
  * The [Eta-Adaptive Data Evaluation](https://github.com/vs-uulm/eta-adaptive), Python, Data Science
  * The [CoinView Evaluation (BTCMon I)](https://github.com/vs-uulm/CoinView), Python, Data Science
  * The [PriCloud](https://github.com/vs-uulm/PriCloud) prototype repository, Python
-
-### Django
-
- * REST [basis for a language tool](https://github.com/ketzu/klang-api), Python, Django, Django-Rest-Framework
- * A first [CMS](https://github.com/ketzu/knet-django), Python, Django
 
 ## C++
 
